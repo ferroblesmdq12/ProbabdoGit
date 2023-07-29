@@ -8,4 +8,11 @@ int main()
 
     printf("\n\t\tProbando Sistema de Controlador de Versiones atravez de GIT!\n");
     return 0;
+
+    // MENU //
+
+    system(pause);
+
+
+
 }

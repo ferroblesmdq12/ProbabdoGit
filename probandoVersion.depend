@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\fernando\desktop\probandoversion\gotoxy\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
