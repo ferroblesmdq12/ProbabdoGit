@@ -17,12 +17,5 @@ int main()
     printf("OTRO COLOR");
 
 
-    return 0;
-
-
-
-
-
-
-
+    return 0; 
 }
